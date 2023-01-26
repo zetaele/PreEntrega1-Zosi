@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="container-fluid">
       <NavBar brand="ZetaEle" />
-      <ItemListContainer greeting="Hola, cliente" />
+      <ItemListContainer greeting="Hola, Cliente" />
     </div>
   )
 }
